@@ -1,0 +1,1 @@
+start javaw -Xmx200m -jar C:\WMS\WMS_Agent\PUT\WMS_PUT_AGENT.jar

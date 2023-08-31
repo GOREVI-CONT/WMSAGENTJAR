@@ -1,0 +1,7 @@
+RUN PUT Agent in Background ==>
+
+On Windows ==>
+javaw -jar WMS_PUT_AGENT.jar
+
+On Linux ==>
+java -jar WMS_PUT_AGENT.jar &
